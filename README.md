@@ -1,4 +1,5 @@
-# WCC-Hackathon-2022 
+# AirFlex
+Built for the 2022 WCC Hackathon
 Theme : Beat the heat <br />
 Visit the Website at: http://gkv.pythonanywhere.com/
 
